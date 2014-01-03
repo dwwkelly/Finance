@@ -1,0 +1,2 @@
+recursive-include Finance/templates *
+recursive-include Finance/static *
