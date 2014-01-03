@@ -8,7 +8,7 @@ setup(
      description='Displays your financial information.',
      long_description=('demonstration of how to package a web-app'),
      url='http://github.com/dwwkelly/Finance',
-     license='MIT',
+     license='GPLv3',
      author='Devin Kelly',
      author_email='dwwkelly@fastmail.fm',
      packages=find_packages(exclude=['tests*']),
